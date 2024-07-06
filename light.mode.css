@@ -13,7 +13,8 @@
 @import url("https://OILYY.github.io/Ace/Addons/SettingsModalEdited.css");
 @import url("https://OILYY.github.io/Friends-Grid/theme.css");
 @import url("https://OILYY.github.io/BetterDiscordStuff/CSS/AddServerDarkMode.css");
-@import url(//OILYY.github.io/css-snippets/AccountDetailsGrid/import.css);
+@import url("https://OILYY.github.io/css-snippets/AccountDetailsGrid/import.css");
+@import url("https://OILYY.github.io/css-snippets/NoLightInDark/import.css");
 
 
 
@@ -159,7 +160,7 @@
   display: none !important;
 }
 .theme-light .wordmark-2u86JB::before {
-  content: "‏‏‎oily";
+  content: "‏‏‎ace";
   font-size: 12px;
   font-weight: 900;
   font-family: "Poiret one" !important;
@@ -175,7 +176,7 @@
   transition: 0.5s ease-in-out;
 }
 .wordmark-2u86JB:hover:before {
-  content: "‏‏‎oily";
+  content: "‏‏‎ace";
   letter-spacing: 2px;
 }
 /* button design*/
@@ -713,12 +714,12 @@ span:not(.spinner-item) {
   background: linear-gradient(45deg, #cacaca, var(--accentcolorV2)) !important;
   border-radius: 30px;
 }
-/*oily appearance theme*/
+/*Ace appearance theme*/
 .theme-light {
   --cl-appearance: "Light";
 }
 #app-mount .info-3pQQBb .line-18uChy:last-child:after {
-  content: "Oily " var(--cl-appearance) " 🎮";
+  content: "Ace " var(--cl-appearance) " 🎮";
   display: block;
 }
 /*custom bd window edit*/
@@ -1083,7 +1084,7 @@ div[class*="wrapper-3Un6-K"][aria-label*="Online"]
   background-color: #fe365c;
   box-shadow: 0px 0px 10px 2px #ff2d54;
 }
-/*oily squad font and colour change*/
+/*oily font and colour change*/
 [href="https\:\/\/github.com/OILYY/GranySmith#author"] {
   font-family: "Libre Barcode 128 Text";
   color: rgb(255, 161, 161) !important;
