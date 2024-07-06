@@ -13,22 +13,22 @@ OilyGranySmith
 */
 
 /*oily*/
-@import url('https://OILYY.github.io/GranySmith/GranySmith.css');
+@import url('https://OILYY.github.io/Ace/Ace.css');
 
 /*removable addons*/
 /* @import url("https://OILYY.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css"); */
 @import url('https://OILYY.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css');
 @import url('https://OILYY.github.io/Discolored/main.css');
-@import url("https://OILYY.github.io/GranySmith/Addons/IconPackEdited.css");
-@import url("https://OILYY.github.io/GranySmith/Addons/AvatarOnlyMemberList.css");
-@import url("https://OILYY.github.io/GranySmith/Addons/FolderRedesign.css");
+@import url("https://OILYY.github.io/Ace/Addons/IconPackEdited.css");
+@import url("https://OILYY.github.io/Ace/Addons/AvatarOnlyMemberList.css");
+@import url("https://OILYY.github.io/Ace/Addons/FolderRedesign.css");
 
 /*additional addons*/
 /*(remove the both * to use)*/
-/*@import url("https://OILYY.github.io/GranySmith/Addons/SimpleLessLag.css");*/
+/*@import url("https://OILYY.github.io/Ace/Addons/SimpleLessLag.css");*/
 
 
-/*GranySmith Roots*/
+/*Ace Roots*/
 :root {
     /*background image*/ /*(replace the link to use)*/
     --background-image: var(--wallpaper);
@@ -85,9 +85,9 @@ OilyGranySmith
     --rs-phone-color: var(--rs-online-color);
 
 
-    /*chillax colours rgb*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
+    /*Ace colours rgb*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
     --accentcolor: 65, 0, 0;
-    /*chillax colours hex*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
+    /*Ace colours hex*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
     --accentcolorV2: #410000;
 
 
