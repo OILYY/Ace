@@ -9,7 +9,7 @@ To download the theme in Better Discord Site:
 4. Go back to Discord and enable the theme and VOILA you did it.
 
 To download the theme in Github:
-1. Go to GranySmith.theme.css
+1. Go to Ace.theme.css
 2. Press the copy raw contents button.
 3. Edit the theme.css in your Discord.
 4. Select everything and paste in the copied code.
