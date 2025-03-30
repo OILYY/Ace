@@ -869,7 +869,7 @@ html.theme-light {
 }
 
 #app-mount .info__2debe .line__2debe:last-child:after {
-    content: "Oily " var(--cl-appearance) " 🎮";
+    content: "Ace " var(--cl-appearance) " 🎮";
     display: block;
 }
 
